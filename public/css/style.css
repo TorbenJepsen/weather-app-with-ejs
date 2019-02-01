@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(53, 102, 38)
+}
+
+.container {
+    background-color: gainsboro;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    /* align-content: center; */
+    
+}
+
+.weather-input {
+    justify-content: center;
+    padding: 25px;
+}
